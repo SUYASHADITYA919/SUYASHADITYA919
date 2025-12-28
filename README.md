@@ -1,14 +1,3 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on webdev and AIML.
-- 🌱 I’m currently learning numpy and react.js.
-- 👯 I’m looking to collaborate on hackathons, webdev and ml projects.
-- 🤔 I’m looking for help with deep learning.
-- 💬 Ask me about anything in cse.
-- 📫 How to reach me: [EMAIL]suyashaditya919@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: soon to be engineer.
-
 <img width="1280" height="347" alt="banner" src="https://github.com/user-attachments/assets/d1a9d60f-1b59-4d1f-a84a-30e020b9c1dd" />
 
 <div>
@@ -19,6 +8,17 @@
 (Developer)
 <br />
 </div>
+
+- 🔭 I’m currently working on webdev and AIML.
+- 🌱 I’m currently learning numpy and react.js.
+- 👯 I’m looking to collaborate on hackathons, webdev and ml projects.
+- 🤔 I’m looking for help with deep learning.
+- 💬 Ask me about anything in cse.
+- 📫 How to reach me: [EMAIL]suyashaditya919@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: soon to be engineer.
+
+
 
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
