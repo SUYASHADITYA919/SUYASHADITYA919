@@ -3,7 +3,8 @@
 <div>
  <img width="2343" height="2340" alt="owl" src="https://github.com/user-attachments/assets/635cf439-fedd-4c09-8b33-1fccacd110c7" />
   
-![smile](https://github.com/user-attachments/assets/2db759a0-d03d-41cf-bdbe-f796ca9fcd9a) <h3>I'm Suyash!</h3>
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/9e6d5f9c-f5ad-4326-a297-88cde6582087" />
+<h3>I'm Suyash!</h3>
 <br />
 (Developer)
 <br />
@@ -44,7 +45,6 @@
 <br />
 <br />
 
-<!--Contact Section--> 
 <div>
   
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
@@ -73,11 +73,7 @@
 </div>
 <br/>
 
-
-
-<!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
 </div>
