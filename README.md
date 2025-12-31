@@ -4,7 +4,7 @@
  <img width="2343" height="2340" alt="owl" src="https://github.com/user-attachments/assets/635cf439-fedd-4c09-8b33-1fccacd110c7" />
 </div>
 
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/9e6d5f9c-f5ad-4326-a297-88cde6582087" /><b>I'm Suyash!</b>
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/9e6d5f9c-f5ad-4326-a297-88cde6582087" /><h2><b>I'm Suyash!</b></h2>
 (Developer)
 <br />
 - 🔭 I’m currently working on webdev and AIML.
