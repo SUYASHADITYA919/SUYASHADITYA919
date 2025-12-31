@@ -2,14 +2,11 @@
 
 <div>
  <img width="2343" height="2340" alt="owl" src="https://github.com/user-attachments/assets/635cf439-fedd-4c09-8b33-1fccacd110c7" />
-  
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/9e6d5f9c-f5ad-4326-a297-88cde6582087" />
-<h3>I'm Suyash!</h3>
-<br />
-(Developer)
-<br />
 </div>
 
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/9e6d5f9c-f5ad-4326-a297-88cde6582087" /><b>I'm Suyash!</b>
+(Developer)
+<br />
 - 🔭 I’m currently working on webdev and AIML.
 - 🌱 I’m currently learning numpy and react.js.
 - 👯 I’m looking to collaborate on hackathons, webdev and ml projects.
@@ -45,8 +42,11 @@
 <br />
 <br />
 
-<div>
-  
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=Yesterday%20is%20but%20today's%20memory%2C%20tomorrow%20is%20today's%20dream.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
@@ -69,11 +69,9 @@
 <a href="https://www.linkedin.com/in/suyash-aditya919/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="Suyashlinkedin" style="margin-bottom: 5px;" />
 </a>
-
 </div>
 <br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-</div>
