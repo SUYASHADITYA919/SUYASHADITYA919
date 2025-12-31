@@ -1,7 +1,7 @@
-<img width="1280" height="347" alt="banner" src="https://github.com/user-attachments/assets/d1a9d60f-1b59-4d1f-a84a-30e020b9c1dd" />
+<img width="1280" height="347" alt="banner" src="https://github.com/user-attachments/assets/1d83900a-1ac0-4bed-8b7a-d5a327e6abda" />
 
 <div>
-  <img width="2343" height="2340" alt="owl" src="https://github.com/user-attachments/assets/e47822d3-e54f-4a28-b1ad-2fd2f8825451" />
+ <img width="2343" height="2340" alt="owl" src="https://github.com/user-attachments/assets/635cf439-fedd-4c09-8b33-1fccacd110c7" />
   
 ![smile](https://github.com/user-attachments/assets/2db759a0-d03d-41cf-bdbe-f796ca9fcd9a) <h3>I'm Suyash!</h3>
 <br />
