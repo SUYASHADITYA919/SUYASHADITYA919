@@ -1,4 +1,4 @@
-<img width="1280" height="347" alt="banner" src="https://github.com/user-attachments/assets/1d83900a-1ac0-4bed-8b7a-d5a327e6abda" />
+<img width="1280" height="347" alt="banner" src="Suyash Aditya.png" />
 
 <h2><b>I'm Suyash!</b></h2>
 (Developer)
