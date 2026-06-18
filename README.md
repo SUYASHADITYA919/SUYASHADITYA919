@@ -39,7 +39,6 @@
 <div align="center">
  
 ![](https://github-readme-stats.shion.dev/api?username=SUYASHADITYA919&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=SUYASHADITYA919&theme=shadow_green&hide_border=false)
 </div>
 
 <h2 align = "center"> Thought of the day ✍️ </h2>
