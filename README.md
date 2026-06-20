@@ -29,11 +29,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 <h2 align = "center">Github stats 📊</h2>
 <div align="center">
