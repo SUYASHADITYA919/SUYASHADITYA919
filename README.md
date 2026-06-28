@@ -4,7 +4,7 @@
 (Developer)
 <br />
 - 🔭 I’m currently working on webdev and AIML.<br />
-- 🌱 I’m currently learning numpy and react.js.<br />
+- 🌱 I’m currently learning Django and next.js.<br />
 - 👯 I’m looking to collaborate on hackathons, webdev and ml projects.<br />
 - 🤔 I’m looking for help with deep learning.<br />
 - 💬 Ask me about anything in cse.<br />
