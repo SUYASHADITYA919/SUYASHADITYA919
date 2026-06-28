@@ -23,9 +23,13 @@
 
 ---
 ### 📊 Github Insights
+<div align="center">
  
-![](https://github-readme-stats.shion.dev/api?username=SUYASHADITYA919&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
-</div>
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=9&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
+![GitHub Streak](https://streak-stats.demolab.com/?user=9&theme=dark&hide_border=false)
+<br>
+![Suyash's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SUYASHADITYA919&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)
 
 ---
 ### 🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ
