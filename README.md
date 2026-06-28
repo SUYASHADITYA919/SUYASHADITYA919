@@ -10,6 +10,7 @@
 - 😄 Pronouns: he/him<br />
 
 ---
+
 ### 🎨 Tech Stack
 
 | Category | Skills & Tools |
@@ -22,16 +23,18 @@
 | **Design** | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 
 ---
+
 ### 📊 Github Insights
 <div align="center">
  
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=9&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=9&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <br>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=9&theme=dark&hide_border=false)
 <br>
 ![Suyash's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SUYASHADITYA919&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)
 
 ---
+
 ### 🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ
  
 <a href="mailto:suyashaditya919@gmail.com" target="_blank">
